@@ -45,19 +45,18 @@ cludegpt-poc/
 └── docs/
     └── faq_clude.txt
 ```
-
 ## Como Executar
 
-Instalar as dependências:
+A aplicação foi estruturada para execução local em ambiente Python.
 
-```bash
+Dependências:
+
 pip install -r requirements.txt
-```
 
-Executar a aplicação:
+Execução:
 
-```bash
 streamlit run app.py
+
 ```
 
 ## Exemplo de Pergunta
