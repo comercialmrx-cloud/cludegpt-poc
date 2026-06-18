@@ -53,9 +53,7 @@ Dependências:
 
 pip install -r requirements.txt
 
-Execução:
-
-streamlit run app.py
+A aplicação foi estruturada para execução local em ambiente Python utilizando Streamlit.
 
 ```
 
@@ -65,7 +63,7 @@ Como funciona o atendimento psicológico da Clude?
 
 ## Resultado Esperado
 
-O sistema consulta os documentos disponíveis e utiliza essas informações para montar a resposta apresentada ao usuário.
+A solução foi estruturada para consultar documentos corporativos e utilizar essas informações na construção das respostas apresentadas ao usuário.
 
 ## Possíveis Evoluções
 
